@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://github.com/KarimTDiaz/KarimTDiaz/blob/main/profile-image.jpg?raw=true)
+![Imagen decorativa de tu perfil](https://github.com/KarimTDiaz/KarimTDiaz/blob/main/git-banner.png?raw=true)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Karim</h1>
