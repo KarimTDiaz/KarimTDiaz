@@ -48,6 +48,9 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="javascript" width="40" height="40"/> 
 </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="javascript" width="40" height="40"/> 
+</a>
 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -60,3 +63,7 @@
   <a href="https://sass-lang.com/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" target="_blank" rel="noreferrer" width="50" alt="BEM metodology">
   </a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="javascript" width="40" height="40"/> 
+</a>
