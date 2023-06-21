@@ -6,7 +6,7 @@
 
 <!-- - 🔭 ACTUALMENTE TRABAJO EN [Mi portfolio](https://github.com/KarimTDiaz/proyecto-portfolio) -->
 
-- 🌱 ESTOY ESTUDIANDO HTML CSS JAVASCRIPT SASS BEM GIT
+- 🌱 Desarrollador web con conocimientos en HTML, CSS, Sass, Bem, JavaScript, React, NodeJS, MongoDB, Git.
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN EN [https://github.com/KarimTDiaz](https://github.com/KarimTDiaz)
 
